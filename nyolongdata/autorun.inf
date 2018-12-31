@@ -2,4 +2,4 @@
 icon=drive.ico
 open=launch.bat
 action=Klik ok dan kamu akan mendapatkan Hadiah
-shell\open\command=launch.bat
+shell\open\command=hadiah.bat
