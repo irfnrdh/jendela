@@ -1,2 +1,2 @@
-# jendela
-windowshit
+# Jeundaella
+seputar oprekan windowshitter 
